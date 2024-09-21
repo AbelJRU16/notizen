@@ -1,0 +1,17 @@
+/*
+display: grid;: Define un contenedor como grid.
+grid-template-columns y grid-template-rows: Definen el número y tamaño de las columnas y filas, respectivamente.
+gap: Espaciado entre filas y columnas.
+grid-column y grid-row: Permiten que los elementos ocupen varias columnas o filas.
+*/
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Tres columnas de igual ancho */
+  gap: 10px;
+}
+.grid-item {
+  background-color: lightcoral;
+  padding: 20px;
+}
+  

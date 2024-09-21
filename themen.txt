@@ -1,0 +1,23 @@
+Para prepararte para la segunda entrevista, especialmente con el assessment técnico, te sugiero enfocarte en los siguientes temas clave, basados en la descripción del puesto:
+
+1. PHP y Backend
+- Conceptos básicos y avanzados de PHP: funciones, clases, manejo de excepciones, sesiones, cookies, seguridad en PHP (XSS, CSRF, SQL Injection).
+- Manejo de bases de datos en PHP: consultas básicas y avanzadas con MySQL, manejo de ORM (si los usas), y optimización de consultas.
+- APIs en PHP: cómo crear y consumir APIs, manejo de JSON y XML.
+2. JavaScript y Frontend
+- JavaScript (vanilla): DOM manipulation, eventos, promesas, async/await.
+- Vue.js: comprensión básica del framework, componentes, props, estado, ciclo de vida de los componentes, y cómo integrar APIs con Vue.js.
+- CSS y HTML: estructura de HTML5, diseño responsivo con CSS, flexbox, grid, y preprocesadores como SASS o LESS.
+3. Desarrollo Full-Stack
+- Integración Frontend-Backend: cómo funcionan juntos, AJAX, fetch API, y cómo conectar ambos para una aplicación fluida.
+- Desarrollo de features nuevas: revisa algún proyecto personal o prepara un ejemplo simple donde agregues una nueva funcionalidad a un sistema.
+4. Bases de Datos
+- MySQL: asegurarte de que dominas las consultas básicas (SELECT, INSERT, UPDATE, DELETE), joins, y creación de tablas. Entender la normalización de bases de datos y cómo optimizar consultas.
+- Conexión Backend-DB: cómo el backend (PHP) se conecta y manipula la base de datos.
+5. Assessment en PC
+- Posiblemente te pidan desarrollar alguna funcionalidad básica en un entorno controlado, así que repasa el flujo de desarrollo desde la creación del frontend hasta la integración del backend.
+- Prepárate para preguntas sobre optimización, mejores prácticas, y cómo abordar problemas comunes.
+6. Práctica para la entrevista
+- Revisa proyectos previos y prepárate para explicar cómo resolviste problemas y qué tecnologías usaste.
+- Prepara un par de ejemplos en los que propusiste ideas o mejoras en proyectos pasados.
+- Reflexiona sobre tus experiencias trabajando en equipo y en entornos ágiles, ya que mencionan que buscan este tipo de perfil.

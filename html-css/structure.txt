@@ -1,0 +1,13 @@
+Estructura de HTML5
+HTML5 es la versión más moderna de HTML y se usa para estructurar el contenido de una página web. Aquí tienes algunos elementos clave:
+
+Doctype: La primera línea de un documento HTML5 es <!DOCTYPE html>, que indica al navegador que es un documento HTML5.
+Elementos semánticos: HTML5 introdujo nuevos elementos que dan más significado al contenido. Algunos ejemplos:
+<header>: Define la cabecera de la página o de una sección.
+<nav>: Contiene los enlaces de navegación de la página.
+<article>: Representa un artículo o contenido independiente.
+<section>: Agrupa una sección de contenido relacionado.
+<footer>: Define el pie de página.
+<aside>: Contenido relacionado pero independiente del principal, como una barra lateral.
+Multimedia: Nuevas etiquetas como <audio> y <video> permiten incrustar multimedia sin necesidad de plugins externos.
+Formularios: Nuevos atributos y tipos de input como email, date, range, y placeholder.

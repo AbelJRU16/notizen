@@ -1,0 +1,16 @@
+// Selecciona un elemento del DOM por su ID
+const element = document.getElementById("myElement");
+
+// Cambia el contenido de texto del elemento
+element.textContent = "¡Hola, mundo!";
+
+// Cambia el estilo del elemento
+element.style.color = "red";
+
+// Selecciona un botón
+const button = document.getElementById("myButton");
+
+// Asigna un evento al hacer clic en el botón
+button.addEventListener("click", () => {
+  alert("¡Botón clickeado!");
+});

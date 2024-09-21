@@ -1,0 +1,21 @@
+/*
+Flexbox
+Flexbox (Flexible Box) es un modelo de diseño de CSS que facilita la creación de diseños flexibles y alineados. Algunas propiedades clave son:
+
+display: flex;: Se aplica a un contenedor para activar el uso de flexbox.
+flex-direction: Define la dirección en que se alinean los hijos del contenedor. Valores: row, column, row-reverse, column-reverse.
+justify-content: Alinea los elementos en el eje principal. Ejemplos: flex-start, flex-end, center, space-between, space-around.
+align-items: Alinea los elementos en el eje cruzado (perpendicular al eje principal). Ejemplos: stretch, flex-start, flex-end, center.
+*/
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+}
+  

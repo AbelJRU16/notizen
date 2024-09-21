@@ -1,0 +1,21 @@
+/* Estilo para pantallas grandes */
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Estilo para pantallas pequeñas */
+@media (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+  
+/*
+Unidades relativas: En lugar de usar unidades fijas (como px), se usan unidades relativas como %, em, rem, o vw/vh para que los elementos se escalen según el tamaño de la pantalla.
+
+Imágenes y contenido fluido: Las imágenes pueden adaptarse al ancho de la pantalla con propiedades como max-width: 100%.
+  
+*/
